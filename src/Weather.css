@@ -1,0 +1,55 @@
+.main-city {
+  font-size: 40px;
+  text-align: left;
+}
+.overview ul,
+.description ul {
+  list-style: none;
+}
+li:first-letter {
+  text-transform: uppercase;
+}
+
+.description img {
+  height: 120px;
+  width: 120px;
+  /* position: relative;
+  left: 20px; */
+}
+
+.main-info {
+  margin-top: 20px;
+  padding-left: 50px;
+  padding-right: 56px;
+}
+
+.temp {
+  font-size: 50px;
+  line-height: 1;
+  /* position: relative;
+  left: 20px; */
+}
+.description .units {
+  position: relative;
+  bottom: 25px;
+  /* left: 20px; */
+}
+
+#fahrenheit-link,
+#celsius-link {
+  text-decoration: none;
+}
+
+.activation {
+  color: #212529;
+  cursor: default;
+}
+
+.activation:hover {
+  text-decoration: none;
+  color: #212529;
+}
+
+.weather-app {
+  border: none;
+}

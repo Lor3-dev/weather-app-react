@@ -1,0 +1,32 @@
+.forecast {
+  font-size: 13px;
+}
+
+.card-group img {
+  height: 50px;
+  width: 50px;
+  display: block;
+  margin: 0 auto;
+}
+.forecast-card {
+  background: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+  /* max-width: 20px; */
+  display: inline-table;
+}
+
+.card-group {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.card-body {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#icon1,
+#icon2,
+#icon3,
+#icon4,
+#icon5 {
+  height: 80px;
+  width: 80px;
+}

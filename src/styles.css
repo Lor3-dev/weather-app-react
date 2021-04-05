@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+  max-width: 640px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  padding: 20px;
+  border: 1px solid rgb(187, 184, 184);
+  border-radius: 8px;
+}
+
+.weather-app-wrapper {
+  max-width: 640px;
+  margin: 0 auto;
+  font-family: "Ubuntu", sans-serif;
+}
