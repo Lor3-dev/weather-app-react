@@ -3,14 +3,14 @@ export default function Footer() {
   return (
     <small className="footer">
       This project was coded by Lorena Ibeas and is{" "}
-      <a
+      <span
         href="https://github.com/Lor3-dev/vanilla-weather-app"
         target="_blank"
         rel="noreferrer"
       >
         Open-sourced on GitHub
-      </a>{" "}
-      and <a href="#">hosted on Netlify</a>
+      </span>{" "}
+      and <span href="#">hosted on Netlify</span>
     </small>
   );
 }
