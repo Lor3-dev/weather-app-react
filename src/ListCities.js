@@ -4,34 +4,34 @@ export default function ListCities() {
     <div className="weather-app row justify-content-center">
       <ul className="nav justify-content-center list-cities">
         <li className="nav-item">
-          <a className="nav-link active madrid" href="#">
+          <span className="nav-link active madrid" href="#">
             Madrid
-          </a>
+          </span>
         </li>
         <li className="nav-item">
-          <a className="nav-link paris" href="#">
+          <span className="nav-link paris" href="#">
             Paris
-          </a>
+          </span>
         </li>
         <li className="nav-item">
-          <a className="nav-link new-york" href="#">
+          <span className="nav-link new-york" href="#">
             New York
-          </a>
+          </span>
         </li>
         <li className="nav-item">
-          <a className="nav-link milan" href="#">
+          <span className="nav-link milan" href="#">
             Milan
-          </a>
+          </span>
         </li>
         <li className="nav-item">
-          <a className="nav-link bordeaux" href="#">
+          <span className="nav-link bordeaux" href="#">
             Bordeaux
-          </a>
+          </span>
         </li>
         <li className="nav-item">
-          <a className="nav-link berlin" href="#">
+          <span className="nav-link berlin" href="#">
             Berlin
-          </a>
+          </span>
         </li>
       </ul>
     </div>

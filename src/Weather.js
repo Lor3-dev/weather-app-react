@@ -29,13 +29,13 @@ export default function Weather() {
                   10
                 </span>
                 <span className="units">
-                  <a href="#" id="celsius-link" className="activation">
+                  <span href="#" id="celsius-link" className="activation">
                     ºC
-                  </a>
+                  </span>
                   |
-                  <a href="#" id="fahrenheit-link">
+                  <span href="#" id="fahrenheit-link">
                     ºF
-                  </a>
+                  </span>
                 </span>
               </div>
             </div>
